@@ -1,10 +1,13 @@
+# Latihan Python dasar (materi DQLab: Python for Data Professional Beginner - Part 1)
+# Jalankan: python python_dasar_latihan.py
+
 # =======================================================
 # LATIHAN 1: Variabel dan Tipe Data Dasar
 # =======================================================
 
 # Variabel dasar
-nama = "Bagus"  # menyimpan teks/string
-umur = 25       # menyimpan angka/integer
+nama = "Budi"  # menyimpan teks/string
+umur = 30       # menyimpan angka/integer
 is_employed = True  # menyimpan nilai boolean (True/False)
 
 # Menampilkan isi variabel dengan format string
@@ -26,7 +29,7 @@ my_set = {7, 8, 9}
 
 # Dictionary: pasangan key-value
 my_dict = {
-    "nama": "Bagus",
+    "nama": "Budi",
     "hobi": "Ngoding"
 }
 
@@ -99,7 +102,7 @@ else:
     print("Nilai C")
 
 # Nested if: kondisi di dalam kondisi
-umur = 25
+umur = 30
 pekerjaan = "Engineer"
 
 if umur > 18:

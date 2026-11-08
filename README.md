@@ -1,11 +1,11 @@
 # Python-for-Data-Professional-Beginner-Part-1
-learn with DQLab
+Catatan belajar pribadi dari kursus DQLab. Repo ini hanya catatan latihan dasar, bukan project analisis. Project analisis ada di [portofolio](https://bagusbernadi.github.io/).
 
 # 🐍 Python Dasar: Struktur Program, Variabel, dan Operator
 
 ## 📌 1. Struktur Program Python
 - **Statement**: Baris perintah Python seperti `print()`, `x = 5`, dll.
-- **Variable**: Nama untuk menyimpan data (contoh: `nama = "Bagus"`)
+- **Variable**: Nama untuk menyimpan data (contoh: `nama = "Budi"`)
 - **Literal**: Nilai tetap seperti `5`, `"hello"`, `True`
 - **Operator**: Simbol untuk operasi: `+`, `*`, `and`, `in`, dsb.
 
@@ -22,7 +22,7 @@ learn with DQLab
 - `frozenset = frozenset([1, 2, 3])`
 
 ### 🔸 Mapping Type:
-- `dict = {"nama": "Bagus", "umur": 25}`
+- `dict = {"nama": "Budi", "umur": 30}`
 
 ## 📌 3. Operator Python
 - **Aritmethic**: `+`, `-`, `*`, `/`, `**`
@@ -44,4 +44,4 @@ learn with DQLab
 
 ## 📎 Referensi
 - Materi dari DQLab: *Python for Data Professional Beginner - Part 1*
-- Latihan: [python-basic-exercise.ipynb](./python-basic-exercise.ipynb)
+- Latihan: [python_dasar_latihan.py](./python_dasar_latihan.py) (6 latihan; jalankan dengan `python python_dasar_latihan.py`)
